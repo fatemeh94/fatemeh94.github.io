@@ -1,11 +1,11 @@
 # Site settings
-title: Hossein Karami | حسین کرمی
-email: hi@hosseinkarami.com
+title: fatemeh amiri | فاطمه امیری
+email: famiri145@yahoo.com
 description: توسعه‌دهنده رابط کاربری
-baseurl: "http://hosseinkarami.com/"
-url: "http://hosseinkarami.com"
+baseurl: "http://f-amiri.ir/"
+url: "http://f-amiri.ir"
 twitter: _Karamii
-github:  HosseinKarami
+github:  fatemeh94
 behance: HosseinKarami
 # Build settings
 markdown: kramdown
