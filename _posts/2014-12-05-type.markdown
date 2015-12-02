@@ -22,7 +22,10 @@ imgauthorname: Florian Klauer
 
 [اینجا][frontend] توضیحاتی داده که پیشنهاد میکنم مطالعه کنید.
 
+من اینجا رو با ترکیب <span>[Jekyll][jekyll]</span>  و <span>[FastShell][fastshell]</span> درست کردم،
 
 
+[jekyll]: http://jekyllrb.com/
+[fastshell]: http://hosseinkarami.github.io/fastshell/
 
 [frontend]: http://front-end.ir/webdesign/why-i-have-chosen-jekyll/
