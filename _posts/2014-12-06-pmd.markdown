@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "درباره مراحل ابتدایی طراحی سایت چه میدانید؟ "
+title: "اینجارو ببین"
 permalink: blog/start2
 parsidate: جمعه ۱۴ آذر ۱۳۹۳
 comments: true
