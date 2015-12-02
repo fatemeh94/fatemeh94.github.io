@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "طراحی سایت چیست؟"
-permalink: blog/start
+permalink: blog/start1
 parsidate: جمعه ۱۴ آذر ۱۳۹۳
 comments: true
 imglink: http://f-amiri.ir/assets/img/Administrator.jpg
