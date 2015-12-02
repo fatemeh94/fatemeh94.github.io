@@ -17,3 +17,12 @@ imgauthorname: Florian Klauer
 
 
   ![alt text]({{site.url}}/assets/img/51.jpg)
+
+
+
+[اینجا][frontend] توضیحاتی داده که پیشنهاد میکنم مطالعه کنید.
+
+
+
+
+[frontend]: http://front-end.ir/webdesign/why-i-have-chosen-jekyll/
