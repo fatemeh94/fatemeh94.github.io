@@ -9,9 +9,7 @@ imgauthor: http://florianklauer.de/
 imgauthorname: Florian Klauer
 ---
 
-
-طریقه درست کردن یه فایل با پسوند مارک دوان :
-
+تبریک برجام
 
 رو پست راست کیلیک کرده
 بعد new
@@ -26,3 +24,4 @@ imgauthorname: Florian Klauer
 الان من استارتشو کردم 2 پس برای پست بعدیت میکنی 3
 اون عکس قسمت imglink رو هم تغییر میدی اگ خواستی
 
+salam
