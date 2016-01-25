@@ -19,9 +19,3 @@ imgauthorname: Florian Klauer
 2015-11-10-esm markdown.markdown
 
 
-
-تو قسمت permalink
-الان من استارتشو کردم 2 پس برای پست بعدیت میکنی 3
-اون عکس قسمت imglink رو هم تغییر میدی اگ خواستی
-
-salam
